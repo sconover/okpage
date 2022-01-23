@@ -3,8 +3,6 @@ Lean on modern browser standards and good test and build practices to build an o
 
 **Sketch/Idea**
 
-**okpage-js** - gh project - minimal redux/lit-html lib that's high perf and supports good unit testing practices
-
 **okpage** 
 * jslib subdir - minimal redux/lit-html lib that's high perf and supports good unit testing practices ...this lib (okpage.js) is available via cdnjs (npm presence exists purely to publish combined lib)
 ** lit-html
