@@ -9,7 +9,7 @@ Lean on modern browser standards, cloud tools, and good test and build practices
   * redux
   * redo redux-loop (better api, just write a custom middleware) - separate project, publish via npm
   * ...this lib (okpage.js) is available via cdnjs (npm presence exists purely to publish combined lib)
-* proto subdir - golang based project that provides a cli tool for generating dataclass-style  js classes from proto defs, plus rpc calls. rpc's use browser-standard fetch by default but remote call impl is pluggable. 
+* proto subdir - golang based project that provides a cli tool for generating dataclass-style  js classes from proto defs, plus rpc client. rpc's use browser-standard fetch by default but remote call impl is pluggable. 
 * twirp subdir - demonstration of simple twirp backend, gh actions for e2e testing (frontend + twirp backend), generation of fixtures from server tests for client-side-e2e testing, gcp cloud run examples/support
 * examples (all tests gh-action automated and run via browserstack)
   * hello - demonstrate lit/redux, minimal unit test
