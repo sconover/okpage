@@ -1,5 +1,5 @@
 # okpage
-Lean on modern browser standards and good test and build practices to build a simple webpage that works. Forget about nodejs for a while.
+Lean on modern browser standards and good test and build practices to build an ok webpage. Forget about nodejs for a while.
 
 **Sketch/Idea**
 
